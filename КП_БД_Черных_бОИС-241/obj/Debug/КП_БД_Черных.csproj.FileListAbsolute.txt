@@ -1,0 +1,114 @@
+C:\Users\nikit\source\repos\C#.labsWinform\КП_БД_Черных\КП_БД_Черных\bin\Debug\КП_БД_Черных.exe.config
+C:\Users\nikit\source\repos\C#.labsWinform\КП_БД_Черных\КП_БД_Черных\bin\Debug\КП_БД_Черных.exe
+C:\Users\nikit\source\repos\C#.labsWinform\КП_БД_Черных\КП_БД_Черных\bin\Debug\КП_БД_Черных.pdb
+C:\Users\nikit\source\repos\C#.labsWinform\КП_БД_Черных\КП_БД_Черных\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nikit\source\repos\C#.labsWinform\КП_БД_Черных\КП_БД_Черных\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\nikit\source\repos\C#.labsWinform\КП_БД_Черных\КП_БД_Черных\bin\Debug\Npgsql.dll
+C:\Users\nikit\source\repos\C#.labsWinform\КП_БД_Черных\КП_БД_Черных\bin\Debug\System.Buffers.dll
+C:\Users\nikit\source\repos\C#.labsWinform\КП_БД_Черных\КП_БД_Черных\bin\Debug\System.Collections.Immutable.dll
+C:\Users\nikit\source\repos\C#.labsWinform\КП_БД_Черных\КП_БД_Черных\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nikit\source\repos\C#.labsWinform\КП_БД_Черных\КП_БД_Черных\bin\Debug\System.Memory.dll
+C:\Users\nikit\source\repos\C#.labsWinform\КП_БД_Черных\КП_БД_Черных\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nikit\source\repos\C#.labsWinform\КП_БД_Черных\КП_БД_Черных\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nikit\source\repos\C#.labsWinform\КП_БД_Черных\КП_БД_Черных\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\nikit\source\repos\C#.labsWinform\КП_БД_Черных\КП_БД_Черных\bin\Debug\System.Text.Json.dll
+C:\Users\nikit\source\repos\C#.labsWinform\КП_БД_Черных\КП_БД_Черных\bin\Debug\System.Threading.Channels.dll
+C:\Users\nikit\source\repos\C#.labsWinform\КП_БД_Черных\КП_БД_Черных\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\nikit\source\repos\C#.labsWinform\КП_БД_Черных\КП_БД_Черных\bin\Debug\System.ValueTuple.dll
+C:\Users\nikit\source\repos\C#.labsWinform\КП_БД_Черных\КП_БД_Черных\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\nikit\source\repos\C#.labsWinform\КП_БД_Черных\КП_БД_Черных\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\nikit\source\repos\C#.labsWinform\КП_БД_Черных\КП_БД_Черных\bin\Debug\Npgsql.xml
+C:\Users\nikit\source\repos\C#.labsWinform\КП_БД_Черных\КП_БД_Черных\bin\Debug\System.Buffers.xml
+C:\Users\nikit\source\repos\C#.labsWinform\КП_БД_Черных\КП_БД_Черных\bin\Debug\System.Collections.Immutable.xml
+C:\Users\nikit\source\repos\C#.labsWinform\КП_БД_Черных\КП_БД_Черных\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\nikit\source\repos\C#.labsWinform\КП_БД_Черных\КП_БД_Черных\bin\Debug\System.Memory.xml
+C:\Users\nikit\source\repos\C#.labsWinform\КП_БД_Черных\КП_БД_Черных\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\nikit\source\repos\C#.labsWinform\КП_БД_Черных\КП_БД_Черных\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nikit\source\repos\C#.labsWinform\КП_БД_Черных\КП_БД_Черных\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\nikit\source\repos\C#.labsWinform\КП_БД_Черных\КП_БД_Черных\bin\Debug\System.Text.Json.xml
+C:\Users\nikit\source\repos\C#.labsWinform\КП_БД_Черных\КП_БД_Черных\bin\Debug\System.Threading.Channels.xml
+C:\Users\nikit\source\repos\C#.labsWinform\КП_БД_Черных\КП_БД_Черных\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\nikit\source\repos\C#.labsWinform\КП_БД_Черных\КП_БД_Черных\bin\Debug\System.ValueTuple.xml
+C:\Users\nikit\source\repos\C#.labsWinform\КП_БД_Черных\КП_БД_Черных\obj\Debug\КП_БД_Черных.csproj.AssemblyReference.cache
+C:\Users\nikit\source\repos\C#.labsWinform\КП_БД_Черных\КП_БД_Черных\obj\Debug\КП_БД_Черных.Properties.Resources.resources
+C:\Users\nikit\source\repos\C#.labsWinform\КП_БД_Черных\КП_БД_Черных\obj\Debug\КП_БД_Черных.csproj.GenerateResource.cache
+C:\Users\nikit\source\repos\C#.labsWinform\КП_БД_Черных\КП_БД_Черных\obj\Debug\КП_БД_Черных.csproj.CoreCompileInputs.cache
+C:\Users\nikit\source\repos\C#.labsWinform\КП_БД_Черных\КП_БД_Черных\obj\Debug\________.E81139A8.Up2Date
+C:\Users\nikit\source\repos\C#.labsWinform\КП_БД_Черных\КП_БД_Черных\obj\Debug\КП_БД_Черных.exe
+C:\Users\nikit\source\repos\C#.labsWinform\КП_БД_Черных\КП_БД_Черных\obj\Debug\КП_БД_Черных.pdb
+C:\Users\Михаил\Downloads\Telegram Desktop\КП_БД_Черных\КП_БД_Черных\КП_БД_Черных\bin\Debug\КП_БД_Черных.exe.config
+C:\Users\Михаил\Downloads\Telegram Desktop\КП_БД_Черных\КП_БД_Черных\КП_БД_Черных\bin\Debug\КП_БД_Черных.exe
+C:\Users\Михаил\Downloads\Telegram Desktop\КП_БД_Черных\КП_БД_Черных\КП_БД_Черных\bin\Debug\КП_БД_Черных.pdb
+C:\Users\Михаил\Downloads\Telegram Desktop\КП_БД_Черных\КП_БД_Черных\КП_БД_Черных\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Михаил\Downloads\Telegram Desktop\КП_БД_Черных\КП_БД_Черных\КП_БД_Черных\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Михаил\Downloads\Telegram Desktop\КП_БД_Черных\КП_БД_Черных\КП_БД_Черных\bin\Debug\Npgsql.dll
+C:\Users\Михаил\Downloads\Telegram Desktop\КП_БД_Черных\КП_БД_Черных\КП_БД_Черных\bin\Debug\System.Buffers.dll
+C:\Users\Михаил\Downloads\Telegram Desktop\КП_БД_Черных\КП_БД_Черных\КП_БД_Черных\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Михаил\Downloads\Telegram Desktop\КП_БД_Черных\КП_БД_Черных\КП_БД_Черных\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Михаил\Downloads\Telegram Desktop\КП_БД_Черных\КП_БД_Черных\КП_БД_Черных\bin\Debug\System.Memory.dll
+C:\Users\Михаил\Downloads\Telegram Desktop\КП_БД_Черных\КП_БД_Черных\КП_БД_Черных\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Михаил\Downloads\Telegram Desktop\КП_БД_Черных\КП_БД_Черных\КП_БД_Черных\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Михаил\Downloads\Telegram Desktop\КП_БД_Черных\КП_БД_Черных\КП_БД_Черных\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Михаил\Downloads\Telegram Desktop\КП_БД_Черных\КП_БД_Черных\КП_БД_Черных\bin\Debug\System.Text.Json.dll
+C:\Users\Михаил\Downloads\Telegram Desktop\КП_БД_Черных\КП_БД_Черных\КП_БД_Черных\bin\Debug\System.Threading.Channels.dll
+C:\Users\Михаил\Downloads\Telegram Desktop\КП_БД_Черных\КП_БД_Черных\КП_БД_Черных\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Михаил\Downloads\Telegram Desktop\КП_БД_Черных\КП_БД_Черных\КП_БД_Черных\bin\Debug\System.ValueTuple.dll
+C:\Users\Михаил\Downloads\Telegram Desktop\КП_БД_Черных\КП_БД_Черных\КП_БД_Черных\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Михаил\Downloads\Telegram Desktop\КП_БД_Черных\КП_БД_Черных\КП_БД_Черных\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Михаил\Downloads\Telegram Desktop\КП_БД_Черных\КП_БД_Черных\КП_БД_Черных\bin\Debug\Npgsql.xml
+C:\Users\Михаил\Downloads\Telegram Desktop\КП_БД_Черных\КП_БД_Черных\КП_БД_Черных\bin\Debug\System.Buffers.xml
+C:\Users\Михаил\Downloads\Telegram Desktop\КП_БД_Черных\КП_БД_Черных\КП_БД_Черных\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Михаил\Downloads\Telegram Desktop\КП_БД_Черных\КП_БД_Черных\КП_БД_Черных\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Михаил\Downloads\Telegram Desktop\КП_БД_Черных\КП_БД_Черных\КП_БД_Черных\bin\Debug\System.Memory.xml
+C:\Users\Михаил\Downloads\Telegram Desktop\КП_БД_Черных\КП_БД_Черных\КП_БД_Черных\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Михаил\Downloads\Telegram Desktop\КП_БД_Черных\КП_БД_Черных\КП_БД_Черных\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Михаил\Downloads\Telegram Desktop\КП_БД_Черных\КП_БД_Черных\КП_БД_Черных\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Михаил\Downloads\Telegram Desktop\КП_БД_Черных\КП_БД_Черных\КП_БД_Черных\bin\Debug\System.Text.Json.xml
+C:\Users\Михаил\Downloads\Telegram Desktop\КП_БД_Черных\КП_БД_Черных\КП_БД_Черных\bin\Debug\System.Threading.Channels.xml
+C:\Users\Михаил\Downloads\Telegram Desktop\КП_БД_Черных\КП_БД_Черных\КП_БД_Черных\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Михаил\Downloads\Telegram Desktop\КП_БД_Черных\КП_БД_Черных\КП_БД_Черных\bin\Debug\System.ValueTuple.xml
+C:\Users\Михаил\Downloads\Telegram Desktop\КП_БД_Черных\КП_БД_Черных\КП_БД_Черных\obj\Debug\КП_БД_Черных.csproj.AssemblyReference.cache
+C:\Users\Михаил\Downloads\Telegram Desktop\КП_БД_Черных\КП_БД_Черных\КП_БД_Черных\obj\Debug\КП_БД_Черных.Properties.Resources.resources
+C:\Users\Михаил\Downloads\Telegram Desktop\КП_БД_Черных\КП_БД_Черных\КП_БД_Черных\obj\Debug\КП_БД_Черных.csproj.GenerateResource.cache
+C:\Users\Михаил\Downloads\Telegram Desktop\КП_БД_Черных\КП_БД_Черных\КП_БД_Черных\obj\Debug\КП_БД_Черных.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\Downloads\Telegram Desktop\КП_БД_Черных\КП_БД_Черных\КП_БД_Черных\obj\Debug\________.E81139A8.Up2Date
+C:\Users\Михаил\Downloads\Telegram Desktop\КП_БД_Черных\КП_БД_Черных\КП_БД_Черных\obj\Debug\КП_БД_Черных.exe
+C:\Users\Михаил\Downloads\Telegram Desktop\КП_БД_Черных\КП_БД_Черных\КП_БД_Черных\obj\Debug\КП_БД_Черных.pdb
+C:\Users\nikit\source\repos\C#.labsWinform\КП_БД_Черных_НОВ\КП_БД_Черных\bin\Debug\КП_БД_Черных.exe.config
+C:\Users\nikit\source\repos\C#.labsWinform\КП_БД_Черных_НОВ\КП_БД_Черных\bin\Debug\КП_БД_Черных.exe
+C:\Users\nikit\source\repos\C#.labsWinform\КП_БД_Черных_НОВ\КП_БД_Черных\bin\Debug\КП_БД_Черных.pdb
+C:\Users\nikit\source\repos\C#.labsWinform\КП_БД_Черных_НОВ\КП_БД_Черных\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nikit\source\repos\C#.labsWinform\КП_БД_Черных_НОВ\КП_БД_Черных\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\nikit\source\repos\C#.labsWinform\КП_БД_Черных_НОВ\КП_БД_Черных\bin\Debug\Npgsql.dll
+C:\Users\nikit\source\repos\C#.labsWinform\КП_БД_Черных_НОВ\КП_БД_Черных\bin\Debug\System.Buffers.dll
+C:\Users\nikit\source\repos\C#.labsWinform\КП_БД_Черных_НОВ\КП_БД_Черных\bin\Debug\System.Collections.Immutable.dll
+C:\Users\nikit\source\repos\C#.labsWinform\КП_БД_Черных_НОВ\КП_БД_Черных\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nikit\source\repos\C#.labsWinform\КП_БД_Черных_НОВ\КП_БД_Черных\bin\Debug\System.Memory.dll
+C:\Users\nikit\source\repos\C#.labsWinform\КП_БД_Черных_НОВ\КП_БД_Черных\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nikit\source\repos\C#.labsWinform\КП_БД_Черных_НОВ\КП_БД_Черных\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nikit\source\repos\C#.labsWinform\КП_БД_Черных_НОВ\КП_БД_Черных\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\nikit\source\repos\C#.labsWinform\КП_БД_Черных_НОВ\КП_БД_Черных\bin\Debug\System.Text.Json.dll
+C:\Users\nikit\source\repos\C#.labsWinform\КП_БД_Черных_НОВ\КП_БД_Черных\bin\Debug\System.Threading.Channels.dll
+C:\Users\nikit\source\repos\C#.labsWinform\КП_БД_Черных_НОВ\КП_БД_Черных\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\nikit\source\repos\C#.labsWinform\КП_БД_Черных_НОВ\КП_БД_Черных\bin\Debug\System.ValueTuple.dll
+C:\Users\nikit\source\repos\C#.labsWinform\КП_БД_Черных_НОВ\КП_БД_Черных\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\nikit\source\repos\C#.labsWinform\КП_БД_Черных_НОВ\КП_БД_Черных\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\nikit\source\repos\C#.labsWinform\КП_БД_Черных_НОВ\КП_БД_Черных\bin\Debug\Npgsql.xml
+C:\Users\nikit\source\repos\C#.labsWinform\КП_БД_Черных_НОВ\КП_БД_Черных\bin\Debug\System.Buffers.xml
+C:\Users\nikit\source\repos\C#.labsWinform\КП_БД_Черных_НОВ\КП_БД_Черных\bin\Debug\System.Collections.Immutable.xml
+C:\Users\nikit\source\repos\C#.labsWinform\КП_БД_Черных_НОВ\КП_БД_Черных\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\nikit\source\repos\C#.labsWinform\КП_БД_Черных_НОВ\КП_БД_Черных\bin\Debug\System.Memory.xml
+C:\Users\nikit\source\repos\C#.labsWinform\КП_БД_Черных_НОВ\КП_БД_Черных\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\nikit\source\repos\C#.labsWinform\КП_БД_Черных_НОВ\КП_БД_Черных\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nikit\source\repos\C#.labsWinform\КП_БД_Черных_НОВ\КП_БД_Черных\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\nikit\source\repos\C#.labsWinform\КП_БД_Черных_НОВ\КП_БД_Черных\bin\Debug\System.Text.Json.xml
+C:\Users\nikit\source\repos\C#.labsWinform\КП_БД_Черных_НОВ\КП_БД_Черных\bin\Debug\System.Threading.Channels.xml
+C:\Users\nikit\source\repos\C#.labsWinform\КП_БД_Черных_НОВ\КП_БД_Черных\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\nikit\source\repos\C#.labsWinform\КП_БД_Черных_НОВ\КП_БД_Черных\bin\Debug\System.ValueTuple.xml
+C:\Users\nikit\source\repos\C#.labsWinform\КП_БД_Черных_НОВ\КП_БД_Черных\obj\Debug\КП_БД_Черных.csproj.AssemblyReference.cache
+C:\Users\nikit\source\repos\C#.labsWinform\КП_БД_Черных_НОВ\КП_БД_Черных\obj\Debug\КП_БД_Черных.Properties.Resources.resources
+C:\Users\nikit\source\repos\C#.labsWinform\КП_БД_Черных_НОВ\КП_БД_Черных\obj\Debug\КП_БД_Черных.csproj.GenerateResource.cache
+C:\Users\nikit\source\repos\C#.labsWinform\КП_БД_Черных_НОВ\КП_БД_Черных\obj\Debug\КП_БД_Черных.csproj.CoreCompileInputs.cache
+C:\Users\nikit\source\repos\C#.labsWinform\КП_БД_Черных_НОВ\КП_БД_Черных\obj\Debug\________.E81139A8.Up2Date
+C:\Users\nikit\source\repos\C#.labsWinform\КП_БД_Черных_НОВ\КП_БД_Черных\obj\Debug\КП_БД_Черных.exe
+C:\Users\nikit\source\repos\C#.labsWinform\КП_БД_Черных_НОВ\КП_БД_Черных\obj\Debug\КП_БД_Черных.pdb
